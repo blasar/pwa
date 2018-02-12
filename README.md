@@ -1,2 +1,0 @@
-# pwa
-Tutorial de PWA
